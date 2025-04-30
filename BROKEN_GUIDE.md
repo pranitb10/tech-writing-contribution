@@ -1,38 +1,38 @@
 # A guide to contribute to open-source repository using git/GitHub:
 
-Thiss documnt explans how you can forked repo and start work on its. please follow thse steps:
+This document explains how you can fork a repo and start work on it. Please follow these steps:
 
-2. First Fork repo on GitHUb from the top-right side (dont forget this step is crucial!).
+1. First Fork repo on GitHub from the top-right side (don't forget this step is crucial!).
 
-1. clone it to ur lapotp by running folowing comman:
+2. Clone it to your laptop by running following command:
 ```
 git clone https://github/com/username/repo-name.git
 ```
 
-4. Change your path to the folder where you have cloned the repo:
+3. Change your path to the folder where you have cloned the repo:
 ```
-cd into repo-name
+cd repo-name
 ```
 
-10. creat a new BRANCH for ur changes (this is required!)
+4. Create a new BRANCH for your changes (this is required!)
 ```
 git branch -b myFeatureFix
 ```
 
-3. make change u wants to do in file. add cool feature or remove bugs or do both but dont break code, then add files using below command:
+5. Make change you want to do in file. Add cool feature or remove bugs or do both but don't break code, then add files using below command:
 ```
 git add .
 ```
-#### NOTE: don't forget to save the changes before adding or else you will not push what u change
+#### NOTE: don't forget to save the changes before adding or else you will not push what you change
 
-6. now write commit message and tell what you did:
+6. Now write commit message and tell what you did:
 ```
 git commt -m "i fixed some issue maybe or not"
 ```
 
-2. Push to branch but be carefull of name u use:
+2. Push to branch but be careful of name you use:
 ```
-git push -u origin maain
+git push -u origin main
 ```
 
-7. Then go to your github acount and maked a pull rquest to ask to get code in mainn repo (not ur forked).
+7. Then go to your GitHub account and make a pull request to ask to get code in main repo (not your forked).
