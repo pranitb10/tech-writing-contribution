@@ -1,6 +1,6 @@
 # A guide to contribute to open-source repository using git/GitHub:
 
-Thiss documnt explans how you can forked repo and start work on its. please follow thse steps:
+This document explains how to fork a repository and start working on it. Follow these steps:
 
 2. First Fork repo on GitHUb from the top-right side (dont forget this step is crucial!).
 
