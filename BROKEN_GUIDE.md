@@ -30,9 +30,9 @@ git add .
 git commit -m "i fixed some issue maybe or not"
 ```
 
-2. Push to branch but be careful of name you use:
+7. Push to branch but be careful of name you use:
 ```
 git push -u origin main
 ```
 
-7. Then go to your GitHub account and make a pull request to ask to get code in main repo (not your forked).
+8. Then go to your GitHub account and make a pull request to ask to get code in main repo (not your forked).
