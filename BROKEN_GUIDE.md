@@ -27,7 +27,7 @@ git add .
 
 6. Now write commit message and tell what you did:
 ```
-git commt -m "i fixed some issue maybe or not"
+git commit -m "i fixed some issue maybe or not"
 ```
 
 2. Push to branch but be careful of name you use:
